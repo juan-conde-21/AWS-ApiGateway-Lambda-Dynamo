@@ -8,7 +8,7 @@ Se detalla la instrumentación de una funcion AWS Lambda con Instana.
 
 ![image](https://github.com/juan-conde-21/aws_lambda/assets/13276404/4ea63c6d-2879-41cf-904c-a5b5fa1343c8)
 
-2. Crear una funcion Lambda con el runtime Node.js 16.x y crear el rol de ejecucion "serverless-api-role"
+2. Crear una funcion Lambda con el runtime Node.js 24.x y crear el rol de ejecucion "serverless-api-role"
 
 ![image](https://github.com/juan-conde-21/aws_lambda/assets/13276404/85ca2e20-ded3-4850-8441-0929bdbfcb74)
 
